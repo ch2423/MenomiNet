@@ -17,7 +17,7 @@ MenominNet
 
 
 
-Disclaimer:
+Disclaimers:
 
 The name MenomiNet was borrowed from a former LAKES cohort member. 
 
